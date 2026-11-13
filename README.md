@@ -3,13 +3,9 @@
 OctoCart is a tiny Octocat merch store. It's a **template repository** for showing off
 [Copilot Code Review](https://docs.github.com/copilot/using-github-copilot/code-review/using-copilot-code-review).
 
-This repo is the clean baseline. The
-[`octobooth-demos/repo-setup-scripts`](https://github.com/octobooth-demos/repo-setup-scripts)
-copy it into demo accounts, then open seeded pull requests that quietly break the house rules
-below. Copilot Code Review then catches those violations, guided by the custom instructions in
-[`.github/`](.github).
+This repo is the clean baseline. The [`octobooth/repo-setup-scripts`](https://github.com/octobooth/repo-setup-scripts) tooling copies it into demo accounts, then opens seeded pull requests that quietly break the house rules below. Copilot Code Review then catches those violations, guided by the custom instructions in [`.github/`](.github).
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/octobooth-demos/octocart)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/octobooth/octocart)
 
 ## Quick start
 
